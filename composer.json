@@ -1,0 +1,15 @@
+{
+	"name" : "Benichou34/gtagmanager",
+	"description" : "Google Tag Manager Module for Prestashop",
+	"homepage" : "https://github.com/Benichou34/gtagmanager",
+	"license" : "MIT",
+	"config" : {
+		"preferred-install" : "dist"
+	},
+	"type" : "prestashop-module",
+	"authors" : [{
+			"email" : "benichou.software@gmail.com",
+			"name" : "Benichou"
+		}
+	]
+}
