@@ -2,7 +2,7 @@
 /*
 * The MIT License (MIT)
 *
-* Copyright (c) 2016 Benichou
+* Copyright (c) 2017 Benichou
 *
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@
 * SOFTWARE.
 *
 *  @author    Benichou <benichou.software@gmail.com>
-*  @copyright 2016 Benichou
+*  @copyright 2017 Benichou
 *  @license   http://opensource.org/licenses/MIT  The MIT License (MIT)
 */
 
@@ -37,7 +37,7 @@ class GTagManager extends Module
 		$this->name = 'gtagmanager';
 		$this->tab = 'analytics_stats';
 		$this->author = 'Benichou';
-		$this->version = '1.0';
+		$this->version = '1.1';
 		$this->bootstrap = true;
 
 		parent::__construct();

@@ -2,7 +2,7 @@
 <module>
 	<name>gtagmanager</name>
 	<displayName><![CDATA[Google Tag Manager]]></displayName>
-	<version><![CDATA[1.0]]></version>
+	<version><![CDATA[1.1]]></version>
 	<description><![CDATA[Adding Google Tag Manager script]]></description>
 	<author><![CDATA[Benichou]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>
